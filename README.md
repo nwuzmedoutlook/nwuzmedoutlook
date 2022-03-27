@@ -37,8 +37,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=nwuzmedoutlook)]()
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nwuzmedoutlook&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwuzmedoutlook&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 </a>
 
 <br>
