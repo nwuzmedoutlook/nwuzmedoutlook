@@ -1,6 +1,6 @@
 ## Hey 👋, I'm NWUzmed!
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+Pseudo-geeks who can't program, worker who makes and collects CO₂. 
 <br/>
 <br/>
 
@@ -8,8 +8,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌌 &nbsp; I’m currently working on **CO₂ capture equipment**
+- 🤝 &nbsp; I’m looking to collaborate on [DAC navigation](https://nwuzmed.ga/)
 
 <br>
 
