@@ -5,10 +5,10 @@ Pseudo-geeks who can't program, worker who makes and collects CO₂.
 
 <img align="right" alt="GIF" src="https://github.com/nwuzmedoutlook/nwuzmedoutlook/blob/main/chemistry.gif" width="520px"/> 
 
-### 🧐 [More About Me](https://co2co2.cf/)
+### 🧐 <a href="https://co2co2.cf/" target="_blank">More About Me</a>
 
 - 🌌 &nbsp; I’m currently working on **CO₂ capture equipment**.
-- 🤝 &nbsp; I’m looking to collaborate on [DAC navigation](https://nwuzmed.ga/).
+- 🤝 &nbsp; I’m looking to collaborate on <a href="https://nwuzmed.ga/" target="_blank">DAC navigation</a>.
 
 ### 🔨 Languages and Tools
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
