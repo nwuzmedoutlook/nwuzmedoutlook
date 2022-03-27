@@ -28,7 +28,8 @@ Pseudo-geeks who can't program, worker who makes and collects CO₂.
 ### 🛠️ My Websites
 <a href="https://nwuzmed.ga/" target="_blank"> <img src="https://img.shields.io/badge/Nav-DAC-green" height="30" align="left"> </a>
 <a href="https://co2co2.cf/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NWUzmed's%20world-blue"  height="30" align="left"> </a>
-<a href="co2capture.cf/" target="_blank"> <img src="https://img.shields.io/badge/Knowledge%20base-DAC-brightgreen" height="30" align="left"> </a>
+<a href="https://co2capture.cf/" target="_blank"> <img src="https://img.shields.io/badge/Knowledge%20base-DAC-brightgreen" height="30" align="left"> </a>
+<a href="https://carbonx.cf/" target="_blank"> <img src="https://img.shields.io/badge/Carbonx-CO%E2%82%82-brightgreen" height="30" align="left"> </a>
 <a href="http://nwuzmed.ysepan.com/" target="_blank"> <img src="https://img.shields.io/badge/Documents-share-orange" height="30" align="left"> </a>
 <a href="https://studyhard.cf/" target="_blank"> <img src="https://img.shields.io/badge/Study-courses-lightgrey" height="30" align="left"> </a>
 <a href="https://support.qq.com/product/313460" target="_blank"> <img src="https://img.shields.io/badge/Message%20board-discuss-brightgreen" height="30" align="left"> </a>
