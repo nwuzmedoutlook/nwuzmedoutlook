@@ -25,11 +25,12 @@ Pseudo-geeks who can't program, worker who makes and collects CO₂.
 | ------------- | ------------- | -------- |
 </a>
 
-<br>
-
 ### 🛠️ My Websites
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-
+<a href="https://nwuzmed.ga/" target="_blank"> <img src="https://img.shields.io/badge/Nav-DAC-green" height="40" align="left"> </a>
+<a href="https://co2co2.cf/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NWUzmed's%20world-blue"  height="40" align="left"> </a>
+<a href="co2capture.cf/" target="_blank"> <img src="https://img.shields.io/badge/Knowledge%20base-DAC-brightgreen" height="40" align="left"> </a>
+<a href="http://nwuzmed.ysepan.com/" target="_blank"> <img src="https://img.shields.io/badge/Documents-share-orange" height="40" align="left"> </a>
+<a href="https://studyhard.cf/" target="_blank"> <img src="https://img.shields.io/badge/Study-courses-lightgrey" height="40" align="left"> </a>
+<a href="https://support.qq.com/product/313460" target="_blank"> <img src="https://img.shields.io/badge/Message%20board-discuss-brightgreen" height="40" align="left"> </a>
+<a href="https://ccus.cf/" target="_blank"> <img src="https://img.shields.io/badge/Resume-Yimu-yellow" height="40" align="left"> </a>
+<a href="https://qq-group.cf/" target="_blank"> <img src="https://img.shields.io/badge/Group-help-red" height="40" align="left"> </a>
