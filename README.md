@@ -26,7 +26,7 @@ Pseudo-geeks who can't program, worker who makes and collects CO₂.
 </a>
 
 ### 🛠️ My Websites
-<a href="https://nwuzmed.ga/" target="_blank"> <img src="https://img.shields.io/badge/Nav-DAC-green" height="40" align="left"> </a>
+<a href="https://nwuzmed.ga/" target="_blank"> <img src="https://img.shields.io/badge/Nav-DAC-green" height="30" align="left"> </a>
 <a href="https://co2co2.cf/" target="_blank"> <img src="https://img.shields.io/badge/Blog-NWUzmed's%20world-blue"  height="30" align="left"> </a>
 <a href="co2capture.cf/" target="_blank"> <img src="https://img.shields.io/badge/Knowledge%20base-DAC-brightgreen" height="30" align="left"> </a>
 <a href="http://nwuzmed.ysepan.com/" target="_blank"> <img src="https://img.shields.io/badge/Documents-share-orange" height="30" align="left"> </a>
