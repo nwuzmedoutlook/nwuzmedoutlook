@@ -4,9 +4,9 @@ Pseudo-geeks who can't program, worker who makes and collects CO₂.
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/nwuzmedoutlook/nwuzmedoutlook/blob/main/chemistry.gif" width="600px"/>
+<img align="right" alt="GIF" src="https://github.com/nwuzmedoutlook/nwuzmedoutlook/blob/main/chemistry.gif" width="520px"/>
   
-### 🧐 More About Me:
+### 🧐 [More About Me](https://co2co2.cf/):
 
 - 🌌 &nbsp; I’m currently working on **CO₂ capture equipment**
 - 🤝 &nbsp; I’m looking to collaborate on [DAC navigation](https://nwuzmed.ga/)
@@ -20,9 +20,7 @@ Pseudo-geeks who can't program, worker who makes and collects CO₂.
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-
 <br>
-
 
 ### 📊 Github Stats
 
@@ -30,10 +28,9 @@ Pseudo-geeks who can't program, worker who makes and collects CO₂.
 | ------------- | ------------- | -------- |
 </a>
 
-
 <br>
 
-### 🛠️ My Projects
+### 🛠️ My Websites
 <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
