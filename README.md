@@ -4,7 +4,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/nwuzmedoutlook/nwuzmedoutlook/blob/main/chemistry.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/nwuzmedoutlook/nwuzmedoutlook/blob/main/chemistry.gif" width="600px"/>
   
 ### 🧐 More About Me:
 
@@ -26,8 +26,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nwuzmedoutlook&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwuzmedoutlook&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nwuzmedoutlook&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwuzmedoutlook&layout=compact&theme=buefy&hide_border=true" /></a> | <img src="https://github.com/nwuzmedoutlook/nwuzmedoutlook/blob/main/CO2.jpeg" width="200px"/>  |
+| ------------- | ------------- | -------- |
 </a>
 
 
