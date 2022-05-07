@@ -1,6 +1,6 @@
 ## Hey 👋, I'm NWUzmed!
 
-Pseudo-geeks who can't program, worker who makes and collects CO₂. 
+Pseudo-geek who can't program, worker who makes and collects CO₂. 
 <br/>
 
 <img align="right" alt="GIF" src="https://github.com/nwuzmedoutlook/nwuzmedoutlook/blob/main/chemistry.gif" width="520px"/> 
