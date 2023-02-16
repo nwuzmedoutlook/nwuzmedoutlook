@@ -1,4 +1,4 @@
-## Hey 👋, I'm NWUzmed!
+## Hey 👋, I'm NWUzmed! A computer💻 hobbyist majoring in chemical engineering👨‍🔬.
 
 <!-- Pseudo-geek who can't program, worker who makes and collects CO₂. 
 <br/> -->
